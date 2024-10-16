@@ -1,12 +1,12 @@
-## Hi there 👋
+## Welcome to theWager codebase - a project currently competing in the Radar Hackathon! 🎉👾
 
-<!--
+**theWager** is your go-to platform for leveling up the on-chain wagering space! 🚀 Whether you want to create socially driven wagers or integrate wagering into your app with ease, we’ve got you covered with our suite of powerful tools for founders and developers alike. 💻⚡️
 
-**Here are some ideas to get you started:**
+Check out our app [here](https://app.thewager.lol)! 🎮
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Currently building: 🛠️
+
+- **WagerWidget** – a plug-and-play widget for seamless wagering on Solana ⚡️💰
+- **Solana blinks integration** 🟢✨
+  
+...and many more exciting features that we can't wait to roll out! 🚀 Stay tuned for everything outlined in our pitch deck! 📜👀
